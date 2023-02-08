@@ -1,6 +1,6 @@
 # Sms Sender App
 
-## Aplicativo para facilitar o envio de SMS através do módulo SIM900A.
+## Aplicativo para realizar o envio de um SMS através do módulo SIM900A.
 ### Material Utilizado:
 * Arduino Uno
 * Módulo SIM900A
