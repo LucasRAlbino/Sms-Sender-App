@@ -19,7 +19,7 @@ window.iconbitmap('icon.ico')
 def conectar():
     global conectado
     try:
-        conectado = serial.Serial("COM6", 9600, timeout=0.5)
+        conectado = serial.Serial("DEFINIR COM PORT", 9600, timeout=0.5)
         print("Conctado com a porta:", conectado.portstr)
     except serial.SerialExecption:
         print("Porta USB não detectada!")
