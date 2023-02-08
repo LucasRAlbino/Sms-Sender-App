@@ -153,3 +153,4 @@ image_2 = canvas.create_image(
 )
 window.resizable(False, False)
 window.mainloop()
+
